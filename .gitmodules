@@ -1,0 +1,9 @@
+[submodule "simple-kanban-react"]
+	path = simple-kanban-react
+	url = https://github.com/cosmisque/simple-kanban-react.git
+[submodule "simple-kanban-sls"]
+	path = simple-kanban-sls
+	url = https://github.com/cosmisque/simple-kanban-sls.git
+[submodule "simple-kanban-terraform"]
+	path = simple-kanban-terraform
+	url = https://github.com/cosmisque/simple-kanban-terraform.git
